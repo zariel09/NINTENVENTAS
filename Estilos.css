@@ -1,0 +1,17 @@
+body {
+  background: rgb(127, 218, 211);
+  font-family: "Bell MT", sans-serif;
+  h1{font-family: 'Algerian', sans-serif ;color: rgb(92, 6, 6);}
+  h2{font-family: 'Bernard MT Condensed', sans-serif;}
+  h3{font-family: 'Algerian', sans-serif;color: rgb(10, 10, 10);}
+  h4{font-family: 'Bell MT', Sans-Serif;}
+  transition: background-color 0.5s ease;
+  margin: 20px;
+  border: 5px solid black;
+  padding: 20px;
+  .container {
+  width: 100%;
+  max-width: 100%;
+  padding: 20px;
+  }
+}
